@@ -23,6 +23,7 @@ The code for the **C++ for Beginners** video series. Every lesson has its own fo
 | 14 | A simple calculator: char, switch and comments | [`lesson14-switch-calculator/`](lesson14-switch-calculator/) | `calculator.cpp` |
 | 15 | The conditional operator ? : | [`lesson15-conditional-operator/`](lesson15-conditional-operator/) | `ticket.cpp`, `delivery_fee.cpp`, `exam_result.cpp` |
 | 16 | The while loop: loop variables and the VS Code debugger | [`lesson16-while-loop/`](lesson16-while-loop/) | `hello_loop.cpp` |
+| 17 | Practical while loops: input validation, sentinels and accumulators | [`lesson17-practical-while-loops/`](lesson17-practical-while-loops/) | `rating.cpp`, `shopping.cpp` |
 
 ## How to use it
 
