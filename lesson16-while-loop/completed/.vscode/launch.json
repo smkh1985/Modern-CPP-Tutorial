@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug hello_loop",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/hello_loop",
+            "cwd": "${workspaceFolder}",
+            "MIMode": "gdb",
+            "externalConsole": false,
+            "stopAtEntry": false
+        }
+    ]
+}

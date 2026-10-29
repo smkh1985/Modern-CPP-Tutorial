@@ -21,6 +21,8 @@ The code for the **C++ for Beginners** video series. Every lesson has its own fo
 | 12 | Combining conditions: the logical operators AND, OR and NOT | [`lesson12-logical-operators/`](lesson12-logical-operators/) | `admission.cpp`, `login.cpp`, `account.cpp` |
 | 13 | Nested if and using-declarations: login with account status | [`lesson13-nested-if/`](lesson13-nested-if/) | `nested_login.cpp` |
 | 14 | A simple calculator: char, switch and comments | [`lesson14-switch-calculator/`](lesson14-switch-calculator/) | `calculator.cpp` |
+| 15 | The conditional operator ? : | [`lesson15-conditional-operator/`](lesson15-conditional-operator/) | `ticket.cpp`, `delivery_fee.cpp`, `exam_result.cpp` |
+| 16 | The while loop: loop variables and the VS Code debugger | [`lesson16-while-loop/`](lesson16-while-loop/) | `hello_loop.cpp` |
 
 ## How to use it
 
