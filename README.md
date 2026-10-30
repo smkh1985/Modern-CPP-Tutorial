@@ -1,9 +1,11 @@
 # Modern C++ Tutorial
 
-The code for the **C++ for Beginners** video series. Every lesson has its own folder with two versions of each program:
+The code for the **C++ for Beginners** video series. Every lesson has its own folder with three versions of its code:
 
 - **`starter/`**: the program with a **TODO list**. Code along with the video by filling in the TODOs.
 - **`completed/`**: the finished program, as it is at the end of the video.
+- **`solution/`**: the answer to the **Your turn** challenge at the end of the video.
+- **`solution/`**: the answer to the **Your turn** challenge at the end of the video.
 
 | Lesson | Topic | Folder | Programs |
 |---|---|---|---|
@@ -24,6 +26,8 @@ The code for the **C++ for Beginners** video series. Every lesson has its own fo
 | 15 | The conditional operator ? : | [`lesson15-conditional-operator/`](lesson15-conditional-operator/) | `ticket.cpp`, `delivery_fee.cpp`, `exam_result.cpp` |
 | 16 | The while loop: loop variables and the VS Code debugger | [`lesson16-while-loop/`](lesson16-while-loop/) | `hello_loop.cpp` |
 | 17 | Practical while loops: input validation, sentinels and accumulators | [`lesson17-practical-while-loops/`](lesson17-practical-while-loops/) | `rating.cpp`, `shopping.cpp` |
+| 18 | The for loop: initialization, condition and update | [`lesson18-for-loop/`](lesson18-for-loop/) | `for_loop.cpp` |
+| 19 | Practical for loops: a multiplication table and an average | [`lesson19-practical-for-loops/`](lesson19-practical-for-loops/) | `multiplication.cpp`, `average_scores.cpp` |
 
 ## How to use it
 
@@ -34,5 +38,9 @@ The code for the **C++ for Beginners** video series. Every lesson has its own fo
    ./rectangle
    ```
 3. Stuck, or finished? Compare with the file in `completed/`.
+4. Then try the **Your turn** challenge from the end of the video (it's in the lesson's README).
+   Compare your answer with `solution/`.
+4. Then try the **Your turn** challenge from the end of the video (it's in the lesson's README).
+   Compare your answer with `solution/`.
 
 You'll need a C++ compiler such as g++ (lesson 0 of the series shows how to install one). Lesson 7 uses a C++20 feature, so compile it with `-std=c++20`.

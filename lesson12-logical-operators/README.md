@@ -13,10 +13,11 @@ Part of the **C++ for Beginners** video series.
 - `login.cpp`
 - `account.cpp`
 
-## Two versions
+## Three versions
 
-- [`starter/`](starter/): the program with a **TODO list**. Follow the TODOs while you watch the video, and write the code yourself.
-- [`completed/`](completed/): the finished program, exactly as it is at the end of the video. Compare it with yours when you're done.
+- [`starter/`](starter/): the programs with a **TODO list**. Follow the TODOs while you watch the video, and write the code yourself.
+- [`completed/`](completed/): the finished programs, exactly as they are at the end of the video. Compare them with yours when you're done.
+- [`solution/`](solution/): the answer to the **Your turn** challenge at the end of the video. Try it yourself first!
 
 ## Compile and run
 
@@ -30,3 +31,9 @@ g++ login.cpp -o login
 g++ account.cpp -o account
 ./account
 ```
+
+## Your turn
+
+Give a free ticket to children or seniors, but only when the museum is open. Add a `bool` called `isOpen`, and use parentheses around the OR part.
+
+Try it yourself first. Then compare with the answer: [`solution/admission.cpp`](solution/admission.cpp).

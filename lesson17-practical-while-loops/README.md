@@ -16,10 +16,11 @@ Part of the **C++ for Beginners** video series.
 - `rating.cpp`
 - `shopping.cpp`
 
-## Two versions
+## Three versions
 
 - [`starter/`](starter/): the programs with a **TODO list**. Follow the TODOs while you watch the video, and write the code yourself.
 - [`completed/`](completed/): the finished programs, exactly as they are at the end of the video. Compare them with yours when you're done.
+- [`solution/`](solution/): the answer to the **Your turn** challenge at the end of the video. Try it yourself first!
 
 ## Compile and run
 
@@ -35,3 +36,5 @@ Do the same for `shopping.cpp`.
 ## Your turn
 
 Extend `shopping.cpp` to count the items too: start an `int` counter at zero, add one each time a price is added, and print both the number of items and the total.
+
+Try it yourself first. Then compare with the answer: [`solution/shopping.cpp`](solution/shopping.cpp).
