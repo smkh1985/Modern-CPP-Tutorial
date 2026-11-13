@@ -5,7 +5,6 @@ The code for the **C++ for Beginners** video series. Every lesson has its own fo
 - **`starter/`**: the program with a **TODO list**. Code along with the video by filling in the TODOs.
 - **`completed/`**: the finished program, as it is at the end of the video.
 - **`solution/`**: the answer to the **Your turn** challenge at the end of the video.
-- **`solution/`**: the answer to the **Your turn** challenge at the end of the video.
 
 | Lesson | Topic | Folder | Programs |
 |---|---|---|---|
@@ -28,6 +27,13 @@ The code for the **C++ for Beginners** video series. Every lesson has its own fo
 | 17 | Practical while loops: input validation, sentinels and accumulators | [`lesson17-practical-while-loops/`](lesson17-practical-while-loops/) | `rating.cpp`, `shopping.cpp` |
 | 18 | The for loop: initialization, condition and update | [`lesson18-for-loop/`](lesson18-for-loop/) | `for_loop.cpp` |
 | 19 | Practical for loops: a multiplication table and an average | [`lesson19-practical-for-loops/`](lesson19-practical-for-loops/) | `multiplication.cpp`, `average_scores.cpp` |
+| 20 | break and continue: leaving a loop early and skipping one round | [`lesson20-break-and-continue/`](lesson20-break-and-continue/) | `prime.cpp`, `scores.cpp` |
+| 21 | The do...while loop: run first, then check | [`lesson21-do-while-loop/`](lesson21-do-while-loop/) | `repeat_calculation.cpp` |
+| 22 | Working with strings: join, length and characters | [`lesson22-working-with-strings/`](lesson22-working-with-strings/) | `name_badge.cpp`, `count_spaces.cpp` |
+| 23 | Searching and replacing text: find and replace | [`lesson23-find-and-replace/`](lesson23-find-and-replace/) | `search_message.cpp`, `replace_name.cpp` |
+| 24 | Introducing arrays: one name, many values | [`lesson24-arrays/`](lesson24-arrays/) | `arrays.cpp` |
+| 25 | Looping over arrays: sum, average and above average | [`lesson25-looping-over-arrays/`](lesson25-looping-over-arrays/) | `scores.cpp` |
+| 26 | Modern arrays: std::array and std::vector | [`lesson26-std-array-and-vector/`](lesson26-std-array-and-vector/) | `numbers.cpp`, `prices.cpp` |
 
 ## How to use it
 
@@ -38,8 +44,6 @@ The code for the **C++ for Beginners** video series. Every lesson has its own fo
    ./rectangle
    ```
 3. Stuck, or finished? Compare with the file in `completed/`.
-4. Then try the **Your turn** challenge from the end of the video (it's in the lesson's README).
-   Compare your answer with `solution/`.
 4. Then try the **Your turn** challenge from the end of the video (it's in the lesson's README).
    Compare your answer with `solution/`.
 
